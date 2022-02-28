@@ -27,13 +27,16 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-### You can find in me in the web 🌍
-[<img align="left" alt="kumarmanishbit" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kumarmanishbit | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="kumarmanishbit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kumarmanishbit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Let's connect 👨‍💻 and forge the future together.😁✌
 
-<br/>
+**Check the Repositories and don't forget to give a star.** 👇
+
+:star: From [kumarmanishbit](https://github.com/kumarmanishbit)
+
+[twitter]: https://twitter.com/kumarmanishbit
+[instagram]: https://www.instagram.com/souravdey777/
+[linkedin]: https://www.linkedin.com/in/kumarmanishbit/
+[medium]: https://medium.com/@manishsoni21
 
 <!--
 **kumarmanishbit/kumarmanishbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
